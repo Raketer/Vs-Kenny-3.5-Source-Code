@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Butters_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Butters Die0000" x="3341" y="0" width="271" height="408" frameX="-55" frameY="0" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0001" x="3617" y="0" width="342" height="407" frameX="-9" frameY="-1" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0002" x="0" y="434" width="342" height="391" frameX="-9" frameY="-17" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0003" x="347" y="434" width="369" height="405" frameX="0" frameY="-17" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0004" x="721" y="434" width="369" height="407" frameX="0" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0005" x="1095" y="434" width="369" height="412" frameX="0" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0006" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0007" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0008" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0009" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0010" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0011" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0012" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0013" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0014" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0015" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0016" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0017" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0018" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0019" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0020" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0021" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0022" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0023" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0024" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0025" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0026" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0027" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0028" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0029" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0030" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0031" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0032" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0033" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0034" x="1469" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0035" x="1739" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0036" x="2009" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0037" x="2279" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0038" x="2549" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0039" x="2819" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0040" x="3089" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0041" x="3359" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0042" x="3629" y="434" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0043" x="0" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0044" x="270" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0045" x="540" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0046" x="810" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0047" x="1080" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0048" x="1350" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0049" x="1620" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0050" x="1890" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0051" x="2160" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0052" x="2430" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0053" x="2700" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0054" x="2970" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0055" x="3240" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0056" x="3510" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die0057" x="3780" y="851" width="265" height="393" frameX="-56" frameY="-15" frameWidth="369" frameHeight="427"/>
+	<SubTexture name="Butters Die Confirm0000" x="0" y="1249" width="265" height="393" frameX="-29" frameY="-67" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0001" x="270" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0002" x="565" y="1249" width="290" height="460" frameX="-20" frameY="0" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0003" x="860" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0004" x="1155" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0005" x="1450" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0006" x="1745" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0007" x="2040" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0008" x="2335" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0009" x="2630" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0010" x="2925" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0011" x="3220" y="1249" width="290" height="430" frameX="-20" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0012" x="3515" y="1249" width="292" height="430" frameX="-19" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0013" x="0" y="1714" width="296" height="430" frameX="-17" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0014" x="301" y="1714" width="302" height="430" frameX="-14" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0015" x="608" y="1714" width="306" height="430" frameX="-12" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0016" x="919" y="1714" width="312" height="430" frameX="-9" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0017" x="1236" y="1714" width="314" height="430" frameX="-8" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0018" x="1555" y="1714" width="318" height="430" frameX="-6" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0019" x="1878" y="1714" width="322" height="430" frameX="-4" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0020" x="2205" y="1714" width="324" height="430" frameX="-3" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0021" x="2534" y="1714" width="326" height="430" frameX="-2" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0022" x="2865" y="1714" width="328" height="430" frameX="-1" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0023" x="3198" y="1714" width="328" height="430" frameX="-1" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0024" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0025" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0026" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0027" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0028" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0029" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0030" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0031" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0032" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Confirm0033" x="3198" y="1714" width="328" height="430" frameX="0" frameY="-30" frameWidth="330" frameHeight="460"/>
+	<SubTexture name="Butters Die Loop0000" x="3531" y="1714" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0001" x="3801" y="1714" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0002" x="3801" y="1714" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0003" x="0" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0004" x="0" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0005" x="270" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0006" x="270" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0007" x="540" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0008" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0009" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0010" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0011" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0012" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0013" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0014" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0015" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0016" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0017" x="3531" y="1714" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0018" x="3801" y="1714" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0019" x="3801" y="1714" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0020" x="0" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0021" x="0" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0022" x="270" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0023" x="270" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0024" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0025" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0026" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0027" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0028" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0029" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0030" x="540" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0031" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0032" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Die Loop0033" x="810" y="2149" width="265" height="393"/>
+	<SubTexture name="Butters Down0000" x="2301" y="2608" width="301" height="398" frameX="0" frameY="-5" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0001" x="2301" y="2608" width="301" height="398" frameX="0" frameY="-5" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0002" x="2607" y="2608" width="300" height="400" frameX="-4" frameY="-3" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0003" x="2607" y="2608" width="300" height="400" frameX="-4" frameY="-3" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0004" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0005" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0006" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0007" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0008" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0009" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0010" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0011" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0012" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down0013" x="2912" y="2608" width="300" height="403" frameX="-6" frameY="0" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down Miss0000" x="2301" y="2608" width="301" height="398" frameX="0" frameY="-52" frameWidth="306" frameHeight="403"/>
+	<SubTexture name="Butters Down Miss0001" x="1080" y="2149" width="298" height="450" frameX="-7" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0002" x="1080" y="2149" width="298" height="450" frameX="-7" frameY="0" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0003" x="1383" y="2149" width="300" height="448" frameX="-6" frameY="-2" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0004" x="1383" y="2149" width="300" height="448" frameX="-6" frameY="-2" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0005" x="1688" y="2149" width="300" height="447" frameX="-6" frameY="-3" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0006" x="1688" y="2149" width="300" height="447" frameX="-6" frameY="-3" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0007" x="1383" y="2149" width="300" height="448" frameX="-6" frameY="-2" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0008" x="1383" y="2149" width="300" height="448" frameX="-6" frameY="-2" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0009" x="1688" y="2149" width="300" height="447" frameX="-6" frameY="-3" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0010" x="1688" y="2149" width="300" height="447" frameX="-6" frameY="-3" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0011" x="1383" y="2149" width="300" height="448" frameX="-6" frameY="-2" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0012" x="1383" y="2149" width="300" height="448" frameX="-6" frameY="-2" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Down Miss0013" x="1688" y="2149" width="300" height="447" frameX="-6" frameY="-3" frameWidth="306" frameHeight="450"/>
+	<SubTexture name="Butters Idle0000" x="0" y="0" width="300" height="420" frameX="0" frameY="-9" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0001" x="305" y="0" width="300" height="420" frameX="0" frameY="-9" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0002" x="610" y="0" width="300" height="420" frameX="0" frameY="-9" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0003" x="915" y="0" width="300" height="420" frameX="0" frameY="-9" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0004" x="1220" y="0" width="298" height="426" frameX="-13" frameY="-3" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0005" x="1523" y="0" width="298" height="426" frameX="-13" frameY="-3" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0006" x="1826" y="0" width="298" height="428" frameX="-16" frameY="-1" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0007" x="2129" y="0" width="298" height="428" frameX="-16" frameY="-1" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0008" x="2432" y="0" width="298" height="429" frameX="-18" frameY="0" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0009" x="2735" y="0" width="298" height="429" frameX="-18" frameY="0" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0010" x="2432" y="0" width="298" height="429" frameX="-18" frameY="0" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0011" x="3038" y="0" width="298" height="429" frameX="-18" frameY="0" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0012" x="2432" y="0" width="298" height="429" frameX="-18" frameY="0" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Idle0013" x="2735" y="0" width="298" height="429" frameX="-18" frameY="0" frameWidth="316" frameHeight="429"/>
+	<SubTexture name="Butters Left0000" x="1993" y="2149" width="304" height="434" frameX="0" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left0001" x="1993" y="2149" width="304" height="434" frameX="0" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left0002" x="3217" y="2608" width="301" height="434" frameX="-3" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0003" x="3217" y="2608" width="301" height="434" frameX="-3" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0004" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0005" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0006" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0007" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0008" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0009" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0010" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0011" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0012" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left0013" x="3523" y="2608" width="300" height="434" frameX="-6" frameY="0" frameWidth="306" frameHeight="434"/>
+	<SubTexture name="Butters Left Miss0000" x="1993" y="2149" width="304" height="434" frameX="0" frameY="-20" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0001" x="2302" y="2149" width="299" height="454" frameX="-5" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0002" x="2606" y="2149" width="299" height="453" frameX="-5" frameY="-1" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0003" x="2910" y="2149" width="299" height="454" frameX="-6" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0004" x="3214" y="2149" width="299" height="453" frameX="-6" frameY="-1" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0005" x="3214" y="2149" width="299" height="453" frameX="-6" frameY="-1" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0006" x="2910" y="2149" width="299" height="454" frameX="-6" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0007" x="2910" y="2149" width="299" height="454" frameX="-6" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0008" x="3214" y="2149" width="299" height="453" frameX="-6" frameY="-1" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0009" x="3214" y="2149" width="299" height="453" frameX="-6" frameY="-1" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0010" x="2910" y="2149" width="299" height="454" frameX="-6" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0011" x="2910" y="2149" width="299" height="454" frameX="-6" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0012" x="3214" y="2149" width="299" height="453" frameX="-6" frameY="-1" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0013" x="3214" y="2149" width="299" height="453" frameX="-6" frameY="-1" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0014" x="2910" y="2149" width="299" height="454" frameX="-6" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Left Miss0015" x="2910" y="2149" width="299" height="454" frameX="-6" frameY="0" frameWidth="305" frameHeight="454"/>
+	<SubTexture name="Butters Right0000" x="3518" y="2149" width="301" height="421" frameX="0" frameY="-1" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right0001" x="3518" y="2149" width="301" height="421" frameX="0" frameY="-1" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right0002" x="0" y="3070" width="301" height="422" frameX="-1" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0003" x="0" y="3070" width="301" height="422" frameX="-1" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0004" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0005" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0006" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0007" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0008" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0009" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0010" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0011" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0012" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right0013" x="306" y="3070" width="301" height="422" frameX="0" frameY="0" frameWidth="302" frameHeight="422"/>
+	<SubTexture name="Butters Right Miss0000" x="3518" y="2149" width="301" height="421" frameX="0" frameY="-36" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0001" x="0" y="2608" width="301" height="457" frameX="-2" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0002" x="0" y="2608" width="301" height="457" frameX="-2" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0003" x="306" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0004" x="306" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0005" x="612" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0006" x="612" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0007" x="306" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0008" x="306" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0009" x="612" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0010" x="612" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0011" x="306" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0012" x="306" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Right Miss0013" x="612" y="2608" width="301" height="457" frameX="0" frameY="0" frameWidth="303" frameHeight="457"/>
+	<SubTexture name="Butters Up0000" x="612" y="3070" width="349" height="438"/>
+	<SubTexture name="Butters Up0001" x="612" y="3070" width="349" height="438"/>
+	<SubTexture name="Butters Up0002" x="966" y="3070" width="346" height="437" frameX="-1" frameY="-1" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0003" x="966" y="3070" width="346" height="437" frameX="-1" frameY="-1" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0004" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0005" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0006" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0007" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0008" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0009" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0010" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0011" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0012" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up0013" x="1317" y="3070" width="339" height="435" frameX="-4" frameY="-3" frameWidth="349" frameHeight="438"/>
+	<SubTexture name="Butters Up Miss0000" x="918" y="2608" width="349" height="438" frameX="0" frameY="-15" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0001" x="1272" y="2608" width="336" height="453" frameX="-6" frameY="0" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0002" x="1272" y="2608" width="336" height="453" frameX="-6" frameY="0" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0003" x="1613" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0004" x="1613" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0005" x="1957" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0006" x="1957" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0007" x="1613" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0008" x="1613" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0009" x="1957" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0010" x="1957" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0011" x="1613" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0012" x="1613" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+	<SubTexture name="Butters Up Miss0013" x="1957" y="2608" width="339" height="451" frameX="-4" frameY="-2" frameWidth="349" frameHeight="453"/>
+</TextureAtlas>

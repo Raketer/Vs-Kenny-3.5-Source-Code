@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mysterion_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mysterion Talk0000" x="0" y="0" width="387" height="491" frameX="-3" frameY="0" frameWidth="400" frameHeight="491"/>
+	<SubTexture name="Mysterion Talk0001" x="0" y="0" width="387" height="491" frameX="-3" frameY="0" frameWidth="400" frameHeight="491"/>
+	<SubTexture name="Mysterion Talk0002" x="387" y="0" width="391" height="489" frameX="-3" frameY="-2" frameWidth="400" frameHeight="491"/>
+	<SubTexture name="Mysterion Talk0003" x="387" y="0" width="391" height="489" frameX="-3" frameY="-2" frameWidth="400" frameHeight="491"/>
+	<SubTexture name="Mysterion Talk0004" x="0" y="491" width="400" height="487" frameX="0" frameY="-4" frameWidth="400" frameHeight="491"/>
+	<SubTexture name="Mysterion Talk0005" x="0" y="491" width="400" height="487" frameX="0" frameY="-4" frameWidth="400" frameHeight="491"/>
+</TextureAtlas>

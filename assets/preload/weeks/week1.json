@@ -1,0 +1,66 @@
+{
+	"storyName": "bus stop",
+	"hideFreeplay": false,
+	"weekBackground": "bus",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"kenny",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"chips",
+			"kenny",
+			[
+				255,
+				110,
+				0
+			]
+		],
+		[
+			"hot-dog",
+			"kenny",
+			[
+				255,
+				90,
+				0
+			]
+		],
+		[
+			"nugget",
+			"kenny",
+			[
+				255,
+				70,
+				0
+			]
+		],
+		[
+			"burger",
+			"kenny-angry",
+			[
+				255,
+				50,
+				0
+			]
+		],
+		[
+			"pizza",
+			"mysterion",
+			[
+				80,
+				40,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week 1"
+}

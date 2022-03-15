@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-32,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kyle Idle"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kyle Left Note"
+		},
+		{
+			"offsets": [
+				-23,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kyle Down Note "
+		},
+		{
+			"offsets": [
+				-17,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kyle Up Note"
+		},
+		{
+			"offsets": [
+				-34,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kyle Right Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kyle-exe",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "kyle-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		54,
+		57
+	],
+	"camera_position": [
+		70,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,182 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Butters Flip Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Butters Flip Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Butters Flip Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Butters Flip Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Butters Flip Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				71
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Butters Miss Flip Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				57
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Butters Miss Flip Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				83
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Butters Miss Flip Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				67
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Butters Miss Flip Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Butters_Perspective_Assets_Flip",
+	"position": [
+		150,
+		400
+	],
+	"healthicon": "butters-normal",
+	"flip_x": true,
+	"healthbar_colors": [
+		26,
+		221,
+		181
+	],
+	"camera_position": [
+		250,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

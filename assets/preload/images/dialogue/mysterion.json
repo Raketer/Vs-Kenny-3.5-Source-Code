@@ -1,0 +1,24 @@
+{
+	"position": [
+		200,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.3,
+	"image": "Mysterion_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-90,
+				0
+			],
+			"loop_offsets": [
+				-90,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Mysterion Talk0005",
+			"loop_name": "Mysterion Talk"
+		}
+	]
+}

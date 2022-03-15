@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backtrees.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="back0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="back0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="back0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="back0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="back0004" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="back0005" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="back0006" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="back0007" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="back0008" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="back0009" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="back0010" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="back0011" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="back0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="back0013" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="back0014" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="back0015" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="back0016" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="back0017" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="back0018" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="back0019" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="back0020" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="back0021" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="back0022" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="back0023" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="back0024" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="back0025" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="back0026" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="back0027" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="back0028" x="5120" y="2880" width="1280" height="720"/>
+	<SubTexture name="back0029" x="6400" y="2880" width="1280" height="720"/>
+</TextureAtlas>

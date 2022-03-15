@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				36
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "XStan IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "XStan DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				112
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "XStan UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				63
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "XStan RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				66
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "XStan LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stan-exe",
+	"position": [
+		860,
+		300
+	],
+	"healthicon": "stan-exe",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		57,
+		140
+	],
+	"camera_position": [
+		-500,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

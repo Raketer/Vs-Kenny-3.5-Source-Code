@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mysterion_Assets_Pizza.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Misterion Down0000" x="0" y="0" width="462" height="506" frameX="0" frameY="-6" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0001" x="0" y="0" width="462" height="506" frameX="0" frameY="-6" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0002" x="467" y="0" width="452" height="509" frameX="-10" frameY="-3" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0003" x="467" y="0" width="452" height="509" frameX="-10" frameY="-3" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0004" x="924" y="0" width="441" height="508" frameX="-21" frameY="-5" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0005" x="924" y="0" width="441" height="508" frameX="-21" frameY="-5" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0006" x="1370" y="0" width="437" height="513" frameX="-25" frameY="0" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0007" x="1370" y="0" width="437" height="513" frameX="-25" frameY="0" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0008" x="1812" y="0" width="437" height="512" frameX="-25" frameY="-1" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0009" x="1812" y="0" width="437" height="512" frameX="-25" frameY="-1" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0010" x="2254" y="0" width="437" height="513" frameX="-25" frameY="0" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0011" x="2254" y="0" width="437" height="513" frameX="-25" frameY="0" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0012" x="2254" y="0" width="437" height="513" frameX="-25" frameY="0" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Down0013" x="2254" y="0" width="437" height="513" frameX="-25" frameY="0" frameWidth="462" frameHeight="513"/>
+	<SubTexture name="Misterion Idle0000" x="2696" y="0" width="408" height="471" frameX="0" frameY="-16" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0001" x="2696" y="0" width="408" height="471" frameX="0" frameY="-16" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0002" x="3109" y="0" width="404" height="477" frameX="-11" frameY="-10" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0003" x="3109" y="0" width="404" height="477" frameX="-11" frameY="-10" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0004" x="3518" y="0" width="398" height="483" frameX="-21" frameY="-5" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0005" x="3518" y="0" width="398" height="483" frameX="-21" frameY="-5" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0006" x="0" y="518" width="400" height="486" frameX="-23" frameY="-1" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0007" x="0" y="518" width="400" height="486" frameX="-23" frameY="-1" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0008" x="405" y="518" width="400" height="487" frameX="-25" frameY="0" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0009" x="405" y="518" width="400" height="487" frameX="-25" frameY="0" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0010" x="810" y="518" width="400" height="487" frameX="-25" frameY="0" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0011" x="810" y="518" width="400" height="487" frameX="-25" frameY="0" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0012" x="1215" y="518" width="400" height="487" frameX="-25" frameY="0" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Idle0013" x="1215" y="518" width="400" height="487" frameX="-25" frameY="0" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Left0000" x="1620" y="518" width="322" height="480" frameX="0" frameY="-10" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0001" x="1620" y="518" width="322" height="480" frameX="0" frameY="-10" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0002" x="1947" y="518" width="322" height="490" frameX="-3" frameY="0" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0003" x="1947" y="518" width="322" height="490" frameX="-3" frameY="0" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0004" x="2274" y="518" width="325" height="489" frameX="-6" frameY="-2" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0005" x="2274" y="518" width="325" height="489" frameX="-6" frameY="-2" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0006" x="2604" y="518" width="325" height="490" frameX="-6" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0007" x="2604" y="518" width="325" height="490" frameX="-6" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0008" x="2934" y="518" width="325" height="490" frameX="-6" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0009" x="2934" y="518" width="325" height="490" frameX="-6" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0010" x="3264" y="518" width="325" height="490" frameX="-6" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0011" x="3264" y="518" width="325" height="490" frameX="-6" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0012" x="3264" y="518" width="325" height="490" frameX="-6" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Left0013" x="3264" y="518" width="325" height="490" frameX="-6" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Right0000" x="3594" y="518" width="430" height="483" frameX="0" frameY="-5" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0001" x="3594" y="518" width="430" height="483" frameX="0" frameY="-5" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0002" x="0" y="1013" width="416" height="487" frameX="-11" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0003" x="0" y="1013" width="416" height="487" frameX="-11" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0004" x="421" y="1013" width="411" height="488" frameX="-13" frameY="0" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0005" x="421" y="1013" width="411" height="488" frameX="-13" frameY="0" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0006" x="837" y="1013" width="408" height="487" frameX="-16" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0007" x="837" y="1013" width="408" height="487" frameX="-16" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0008" x="1250" y="1013" width="408" height="487" frameX="-16" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0009" x="1250" y="1013" width="408" height="487" frameX="-16" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0010" x="1663" y="1013" width="408" height="487" frameX="-16" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0011" x="1663" y="1013" width="408" height="487" frameX="-16" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0012" x="1663" y="1013" width="408" height="487" frameX="-16" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Right0013" x="1663" y="1013" width="408" height="487" frameX="-16" frameY="-1" frameWidth="430" frameHeight="488"/>
+	<SubTexture name="Misterion Talk0000" x="1215" y="518" width="400" height="487" frameX="-3" frameY="0" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Talk0001" x="1215" y="518" width="400" height="487" frameX="-3" frameY="0" frameWidth="425" frameHeight="488"/>
+	<SubTexture name="Misterion Talk0002" x="2076" y="1013" width="407" height="477" frameX="0" frameY="-4" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0003" x="2076" y="1013" width="407" height="477" frameX="0" frameY="-4" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0004" x="2488" y="1013" width="395" height="485" frameX="-51" frameY="-11" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0005" x="2888" y="1013" width="375" height="485" frameX="-51" frameY="-11" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0006" x="3268" y="1013" width="371" height="482" frameX="-37" frameY="-11" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0007" x="3644" y="1013" width="322" height="482" frameX="-37" frameY="-11" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0008" x="1947" y="518" width="322" height="490" frameX="-40" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Talk0009" x="1947" y="518" width="322" height="490" frameX="-40" frameY="-1" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Talk0010" x="2274" y="518" width="325" height="489" frameX="-43" frameY="-3" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Talk0011" x="2274" y="518" width="325" height="489" frameX="-43" frameY="-3" frameWidth="331" frameHeight="491"/>
+	<SubTexture name="Misterion Talk0012" x="0" y="1506" width="319" height="492" frameX="-46" frameY="0" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0013" x="0" y="1506" width="319" height="492" frameX="-46" frameY="0" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0014" x="324" y="1506" width="315" height="491" frameX="-48" frameY="-1" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0015" x="324" y="1506" width="315" height="491" frameX="-48" frameY="-1" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0016" x="644" y="1506" width="323" height="489" frameX="-44" frameY="-3" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0017" x="644" y="1506" width="323" height="489" frameX="-44" frameY="-3" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0018" x="972" y="1506" width="329" height="487" frameX="-41" frameY="-5" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0019" x="972" y="1506" width="329" height="487" frameX="-41" frameY="-5" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0020" x="1306" y="1506" width="329" height="487" frameX="-41" frameY="-5" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0021" x="1306" y="1506" width="329" height="487" frameX="-41" frameY="-5" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0022" x="1640" y="1506" width="328" height="487" frameX="-42" frameY="-5" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0023" x="1640" y="1506" width="328" height="487" frameX="-42" frameY="-5" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0024" x="1973" y="1506" width="320" height="489" frameX="-50" frameY="-3" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0025" x="1973" y="1506" width="320" height="489" frameX="-50" frameY="-3" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0026" x="2298" y="1506" width="323" height="488" frameX="-47" frameY="-4" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0027" x="2298" y="1506" width="323" height="488" frameX="-47" frameY="-4" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0028" x="2298" y="1506" width="323" height="488" frameX="-47" frameY="-4" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0029" x="2626" y="1506" width="325" height="488" frameX="-45" frameY="-4" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0030" x="2626" y="1506" width="325" height="488" frameX="-45" frameY="-4" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0031" x="2626" y="1506" width="325" height="488" frameX="-45" frameY="-4" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0032" x="2956" y="1506" width="326" height="489" frameX="-44" frameY="-3" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0033" x="2956" y="1506" width="326" height="489" frameX="-44" frameY="-3" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0034" x="2956" y="1506" width="326" height="489" frameX="-44" frameY="-3" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Talk0035" x="2956" y="1506" width="326" height="489" frameX="-44" frameY="-3" frameWidth="446" frameHeight="496"/>
+	<SubTexture name="Misterion Up0000" x="3287" y="1506" width="360" height="497" frameX="-4" frameY="0" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0001" x="3287" y="1506" width="360" height="497" frameX="-4" frameY="0" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0002" x="3652" y="1506" width="363" height="497" frameX="-2" frameY="0" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0003" x="3652" y="1506" width="363" height="497" frameX="-2" frameY="0" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0004" x="0" y="2008" width="364" height="496" frameX="-1" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0005" x="0" y="2008" width="364" height="496" frameX="-1" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0006" x="369" y="2008" width="365" height="496" frameX="0" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0007" x="369" y="2008" width="365" height="496" frameX="0" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0008" x="739" y="2008" width="365" height="496" frameX="0" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0009" x="739" y="2008" width="365" height="496" frameX="0" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0010" x="1109" y="2008" width="365" height="496" frameX="0" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0011" x="1109" y="2008" width="365" height="496" frameX="0" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0012" x="1109" y="2008" width="365" height="496" frameX="0" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Misterion Up0013" x="1109" y="2008" width="365" height="496" frameX="0" frameY="-1" frameWidth="365" frameHeight="497"/>
+	<SubTexture name="Mysterion Death 10000" x="1479" y="2008" width="1395" height="1178" frameX="-16" frameY="-19" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10001" x="0" y="3191" width="1371" height="1187" frameX="0" frameY="-4" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10002" x="1376" y="3191" width="1332" height="1139" frameX="-34" frameY="0" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10003" x="0" y="4383" width="1395" height="1178" frameX="-16" frameY="-19" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10004" x="1400" y="4383" width="1371" height="1187" frameX="0" frameY="-4" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10005" x="0" y="5575" width="1332" height="1139" frameX="-34" frameY="0" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10006" x="1479" y="2008" width="1395" height="1178" frameX="-16" frameY="-19" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10007" x="0" y="3191" width="1371" height="1187" frameX="0" frameY="-4" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10008" x="1376" y="3191" width="1332" height="1139" frameX="-34" frameY="0" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10009" x="0" y="4383" width="1395" height="1178" frameX="-16" frameY="-19" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10010" x="1400" y="4383" width="1371" height="1187" frameX="0" frameY="-4" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10011" x="0" y="5575" width="1332" height="1139" frameX="-34" frameY="0" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10012" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10013" x="1742" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10014" x="2147" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10015" x="2552" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10016" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10017" x="1742" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10018" x="2147" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10019" x="2552" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10020" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10021" x="1742" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10022" x="2147" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10023" x="2552" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10024" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10025" x="1742" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10026" x="2147" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10027" x="2552" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10028" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10029" x="1742" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10030" x="2147" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10031" x="2552" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10032" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10033" x="1742" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10034" x="2147" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10035" x="2552" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10036" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10037" x="1742" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10038" x="2147" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10039" x="2552" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10040" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10041" x="1742" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10042" x="2147" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10043" x="2552" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10044" x="1337" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10045" x="2957" y="5575" width="400" height="442" frameX="-895" frameY="-628" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10046" x="3362" y="5575" width="375" height="395" frameX="-903" frameY="-675" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10047" x="3742" y="5575" width="333" height="389" frameX="-927" frameY="-676" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10048" x="0" y="6719" width="244" height="384" frameX="-982" frameY="-676" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10049" x="249" y="6719" width="219" height="386" frameX="-1007" frameY="-676" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10050" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10051" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10052" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10053" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10054" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10055" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10056" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10057" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10058" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10059" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10060" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10061" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10062" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10063" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10064" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10065" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10066" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10067" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10068" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10069" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10070" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10071" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10072" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10073" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10074" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10075" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10076" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10077" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10078" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10079" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10080" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10081" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10082" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10083" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10084" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10085" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10086" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10087" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10088" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10089" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10090" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10091" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10092" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10093" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10094" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10095" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10096" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10097" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10098" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10099" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10100" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10101" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10102" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10103" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10104" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10105" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10106" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10107" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10108" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10109" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10110" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10111" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10112" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10113" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10114" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10115" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10116" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10117" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10118" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10119" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10120" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10121" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10122" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10123" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10124" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10125" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10126" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10127" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10128" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10129" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10130" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10131" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10132" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10133" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10134" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10135" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10136" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10137" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10138" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10139" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10140" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10141" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10142" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10143" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10144" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10145" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10146" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10147" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10148" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10149" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10150" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10151" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10152" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10153" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10154" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10155" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10156" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10157" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10158" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10159" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10160" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10161" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10162" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10163" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10164" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10165" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10166" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10167" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10168" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10169" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10170" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10171" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10172" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10173" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10174" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10175" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10176" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10177" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10178" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10179" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10180" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10181" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10182" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10183" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10184" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10185" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10186" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10187" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10188" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10189" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10190" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10191" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10192" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10193" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10194" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10195" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10196" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10197" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10198" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10199" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10200" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10201" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10202" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10203" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10204" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10205" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10206" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10207" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10208" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10209" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10210" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10211" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10212" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10213" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10214" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10215" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10216" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10217" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10218" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10219" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10220" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10221" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10222" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10223" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10224" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10225" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10226" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10227" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10228" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10229" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10230" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10231" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10232" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10233" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10234" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10235" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10236" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10237" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10238" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10239" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10240" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10241" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10242" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10243" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10244" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10245" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10246" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10247" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10248" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10249" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10250" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10251" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10252" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10253" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10254" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10255" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10256" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10257" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10258" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10259" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10260" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10261" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10262" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10263" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10264" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10265" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10266" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10267" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10268" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10269" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10270" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10271" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10272" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10273" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10274" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10275" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10276" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10277" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10278" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10279" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10280" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10281" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10282" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10283" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10284" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10285" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10286" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10287" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10288" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10289" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10290" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10291" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10292" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10293" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10294" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10295" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10296" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10297" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10298" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10299" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10300" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10301" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10302" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10303" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10304" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10305" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10306" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10307" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10308" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10309" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10310" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10311" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10312" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10313" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10314" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10315" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10316" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10317" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10318" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10319" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10320" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10321" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10322" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10323" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10324" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10325" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10326" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10327" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10328" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10329" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10330" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10331" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10332" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10333" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10334" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10335" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10336" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10337" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10338" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10339" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10340" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10341" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10342" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10343" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10344" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10345" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10346" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10347" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10348" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10349" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10350" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10351" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10352" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10353" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10354" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10355" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10356" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10357" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10358" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10359" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10360" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10361" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10362" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10363" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10364" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10365" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10366" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10367" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10368" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10369" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10370" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10371" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10372" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10373" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10374" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10375" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10376" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10377" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10378" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10379" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10380" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10381" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10382" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10383" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10384" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10385" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10386" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10387" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10388" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10389" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10390" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10391" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10392" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10393" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10394" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10395" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10396" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10397" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10398" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10399" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10400" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10401" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10402" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10403" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10404" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10405" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10406" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10407" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10408" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10409" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10410" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10411" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10412" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10413" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10414" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10415" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10416" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10417" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10418" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10419" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10420" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10421" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10422" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10423" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10424" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10425" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10426" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10427" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10428" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10429" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10430" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10431" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10432" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10433" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10434" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10435" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10436" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10437" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10438" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10439" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10440" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10441" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10442" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10443" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10444" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10445" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10446" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10447" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10448" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10449" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10450" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10451" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10452" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10453" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10454" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10455" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10456" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10457" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10458" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10459" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10460" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10461" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10462" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10463" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10464" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10465" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10466" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10467" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10468" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10469" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10470" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10471" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10472" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10473" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10474" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10475" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10476" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10477" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10478" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+	<SubTexture name="Mysterion Death 10479" x="473" y="6719" width="223" height="131" frameX="-999" frameY="-932" frameWidth="1411" frameHeight="1197"/>
+</TextureAtlas>

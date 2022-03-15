@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-42,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Kenny Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Kenny Left"
+		},
+		{
+			"offsets": [
+				-37,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Kenny Down"
+		},
+		{
+			"offsets": [
+				6,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Kenny Up"
+		},
+		{
+			"offsets": [
+				-67,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Kenny Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kennyZ",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kenny-zombie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		132,
+		26
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "Talk",
+			"text": "Yorth Mfrpm!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kenny"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Talk",
+			"text": "Mprhph?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kenny"
+		},
+		{
+			"expression": "talk",
+			"text": "ye",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Talk",
+			"text": "Mrphm, Ifth yoth mrphm!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kenny"
+		}
+	]
+}

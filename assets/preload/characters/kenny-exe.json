@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-39,
+				-62
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kenny Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kenny Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-89
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kenny Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kenny Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kenny Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh 1",
+			"loop": false,
+			"name": "Kenny Laugh 1"
+		},
+		{
+			"offsets": [
+				12,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh 2",
+			"loop": false,
+			"name": "Kenny Laugh 2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kenny-exe",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "kenny-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		0
+	],
+	"camera_position": [
+		70,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

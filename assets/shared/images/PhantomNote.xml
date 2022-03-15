@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PhantomNote.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="0" y="0" width="187" height="190"/>
+	<SubTexture name="B0000" x="192" y="0" width="196" height="193"/>
+	<SubTexture name="C0000" x="393" y="0" width="184" height="181"/>
+	<SubTexture name="D0000" x="582" y="0" width="193" height="196"/>
+	<SubTexture name="E0000" x="780" y="0" width="185" height="185"/>
+	<SubTexture name="F0000" x="0" y="201" width="187" height="190"/>
+	<SubTexture name="G0000" x="192" y="0" width="196" height="193"/>
+	<SubTexture name="H0000" x="393" y="0" width="184" height="181"/>
+	<SubTexture name="I0000" x="192" y="201" width="193" height="196"/>
+</TextureAtlas>

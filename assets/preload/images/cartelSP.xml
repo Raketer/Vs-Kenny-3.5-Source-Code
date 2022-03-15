@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cartelSP.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cartel0000" x="0" y="0" width="860" height="886"/>
+	<SubTexture name="cartel0001" x="860" y="0" width="854" height="879" frameX="0" frameY="-3" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0002" x="1714" y="0" width="848" height="873" frameX="0" frameY="-6" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0003" x="2562" y="0" width="841" height="868" frameX="0" frameY="-8" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0004" x="0" y="886" width="835" height="861" frameX="0" frameY="-11" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0005" x="835" y="886" width="828" height="855" frameX="0" frameY="-14" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0006" x="1663" y="886" width="822" height="849" frameX="0" frameY="-17" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0007" x="2485" y="886" width="815" height="842" frameX="0" frameY="-20" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0008" x="0" y="1747" width="808" height="836" frameX="0" frameY="-23" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0009" x="808" y="1747" width="802" height="830" frameX="0" frameY="-26" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0010" x="1610" y="1747" width="793" height="821" frameX="0" frameY="-30" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0011" x="1610" y="1747" width="793" height="821" frameX="0" frameY="-30" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0012" x="2403" y="1747" width="793" height="821" frameX="0" frameY="-30" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0013" x="808" y="1747" width="802" height="830" frameX="0" frameY="-26" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0014" x="0" y="1747" width="808" height="836" frameX="0" frameY="-23" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0015" x="2485" y="886" width="815" height="842" frameX="0" frameY="-20" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0016" x="1663" y="886" width="822" height="849" frameX="0" frameY="-17" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0017" x="3196" y="1747" width="828" height="855" frameX="0" frameY="-14" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0018" x="0" y="886" width="835" height="861" frameX="0" frameY="-11" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0019" x="2562" y="0" width="841" height="868" frameX="0" frameY="-8" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0020" x="1714" y="0" width="848" height="873" frameX="0" frameY="-6" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0021" x="860" y="0" width="854" height="879" frameX="0" frameY="-3" frameWidth="860" frameHeight="886"/>
+	<SubTexture name="cartel0022" x="0" y="0" width="860" height="886"/>
+	<SubTexture name="cartel0023" x="0" y="0" width="860" height="886"/>
+</TextureAtlas>

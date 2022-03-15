@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "mysterion",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "FINALLY FOUND YOU!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "Bro calm down"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "i don't know you and you're scaring me"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "mysterion",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You don't need to know me"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "mysterion",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just need to know that you owe me a rap battle"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ooh, you are that meager kid who doesn't know how to ra-"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "mysterion",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I recommend u start digging your grave."
+		}
+	]
+}

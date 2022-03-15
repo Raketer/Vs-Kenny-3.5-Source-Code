@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kyle-exe.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kyle Down Note 0000" x="0" y="0" width="326" height="369" frameX="0" frameY="0" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0001" x="0" y="0" width="326" height="369" frameX="0" frameY="0" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0002" x="331" y="0" width="324" height="363" frameX="-4" frameY="-5" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0003" x="331" y="0" width="324" height="363" frameX="-4" frameY="-5" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0004" x="660" y="0" width="324" height="357" frameX="-5" frameY="-11" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0005" x="989" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0006" x="1319" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0007" x="1319" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0008" x="1319" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0009" x="1319" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0010" x="1319" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0011" x="1319" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0012" x="1319" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Down Note 0013" x="1319" y="0" width="325" height="351" frameX="-4" frameY="-18" frameWidth="329" frameHeight="369"/>
+	<SubTexture name="Kyle Idle0000" x="1649" y="0" width="351" height="383" frameX="-2" frameY="-1" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0001" x="1649" y="0" width="351" height="383" frameX="-2" frameY="-1" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0002" x="0" y="388" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0003" x="0" y="388" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0004" x="0" y="388" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0005" x="355" y="388" width="352" height="381" frameX="0" frameY="-3" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0006" x="355" y="388" width="352" height="381" frameX="0" frameY="-3" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0007" x="712" y="388" width="335" height="366" frameX="-11" frameY="-18" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0008" x="1052" y="388" width="332" height="362" frameX="-13" frameY="-22" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0009" x="1052" y="388" width="332" height="362" frameX="-13" frameY="-22" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0010" x="1389" y="388" width="343" height="375" frameX="-6" frameY="-9" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0011" x="1389" y="388" width="343" height="375" frameX="-6" frameY="-9" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0012" x="0" y="775" width="347" height="380" frameX="-3" frameY="-4" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0013" x="0" y="775" width="347" height="380" frameX="-3" frameY="-4" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0014" x="352" y="775" width="351" height="384" frameX="-1" frameY="0" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0015" x="352" y="775" width="351" height="384" frameX="-1" frameY="0" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0016" x="708" y="775" width="349" height="381" frameX="-3" frameY="-3" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0017" x="708" y="775" width="349" height="381" frameX="-3" frameY="-3" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0018" x="708" y="775" width="349" height="381" frameX="-3" frameY="-3" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0019" x="1062" y="775" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0020" x="1062" y="775" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0021" x="1062" y="775" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0022" x="1062" y="775" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0023" x="1062" y="775" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0024" x="1062" y="775" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0025" x="1062" y="775" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Idle0026" x="1062" y="775" width="350" height="382" frameX="-2" frameY="-2" frameWidth="353" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0000" x="1417" y="775" width="326" height="367" frameX="-26" frameY="-17" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0001" x="1417" y="775" width="326" height="367" frameX="-26" frameY="-17" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0002" x="0" y="1164" width="328" height="372" frameX="-7" frameY="-12" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0003" x="333" y="1164" width="335" height="384" frameX="0" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0004" x="333" y="1164" width="335" height="384" frameX="0" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0005" x="673" y="1164" width="331" height="384" frameX="-2" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0006" x="1009" y="1164" width="324" height="384" frameX="-9" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0007" x="1009" y="1164" width="324" height="384" frameX="-9" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0008" x="1009" y="1164" width="324" height="384" frameX="-9" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0009" x="1009" y="1164" width="324" height="384" frameX="-9" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0010" x="1009" y="1164" width="324" height="384" frameX="-9" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0011" x="1009" y="1164" width="324" height="384" frameX="-9" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0012" x="1009" y="1164" width="324" height="384" frameX="-9" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Left Note0013" x="1009" y="1164" width="324" height="384" frameX="-9" frameY="0" frameWidth="352" frameHeight="384"/>
+	<SubTexture name="Kyle Right Note0000" x="1338" y="1164" width="324" height="377" frameX="0" frameY="0" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0001" x="1667" y="1164" width="323" height="376" frameX="-1" frameY="-1" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0002" x="0" y="1553" width="321" height="376" frameX="-1" frameY="-1" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0003" x="326" y="1553" width="327" height="372" frameX="-15" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0004" x="326" y="1553" width="327" height="372" frameX="-15" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0005" x="326" y="1553" width="327" height="372" frameX="-15" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0006" x="658" y="1553" width="322" height="372" frameX="-13" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0007" x="985" y="1553" width="322" height="372" frameX="-13" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0008" x="985" y="1553" width="322" height="372" frameX="-13" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0009" x="985" y="1553" width="322" height="372" frameX="-13" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0010" x="985" y="1553" width="322" height="372" frameX="-13" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0011" x="985" y="1553" width="322" height="372" frameX="-13" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0012" x="985" y="1553" width="322" height="372" frameX="-13" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Right Note0013" x="985" y="1553" width="322" height="372" frameX="-13" frameY="-5" frameWidth="342" frameHeight="377"/>
+	<SubTexture name="Kyle Up Note0000" x="1312" y="1553" width="357" height="411"/>
+	<SubTexture name="Kyle Up Note0001" x="1312" y="1553" width="357" height="411"/>
+	<SubTexture name="Kyle Up Note0002" x="1312" y="1553" width="357" height="411"/>
+	<SubTexture name="Kyle Up Note0003" x="1674" y="1553" width="344" height="392" frameX="-9" frameY="-19" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0004" x="1674" y="1553" width="344" height="392" frameX="-9" frameY="-19" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0005" x="1674" y="1553" width="344" height="392" frameX="-9" frameY="-19" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0006" x="0" y="1969" width="346" height="395" frameX="-8" frameY="-16" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0007" x="0" y="1969" width="346" height="395" frameX="-8" frameY="-16" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0008" x="351" y="1969" width="351" height="403" frameX="-4" frameY="-8" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0009" x="351" y="1969" width="351" height="403" frameX="-4" frameY="-8" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0010" x="351" y="1969" width="351" height="403" frameX="-4" frameY="-8" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0011" x="351" y="1969" width="351" height="403" frameX="-4" frameY="-8" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0012" x="351" y="1969" width="351" height="403" frameX="-4" frameY="-8" frameWidth="357" frameHeight="411"/>
+	<SubTexture name="Kyle Up Note0013" x="351" y="1969" width="351" height="403" frameX="-4" frameY="-8" frameWidth="357" frameHeight="411"/>
+</TextureAtlas>

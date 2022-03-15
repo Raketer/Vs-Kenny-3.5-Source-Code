@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				39,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Misterion Idle"
+		},
+		{
+			"offsets": [
+				5,
+				97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Misterion Left"
+		},
+		{
+			"offsets": [
+				56,
+				94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Misterion Down"
+		},
+		{
+			"offsets": [
+				10,
+				118
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Misterion Up"
+		},
+		{
+			"offsets": [
+				29,
+				109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Misterion Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mysterion_Assets_Pizza_Red",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "mysterion",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		48,
+		150
+	],
+	"camera_position": [
+		70,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

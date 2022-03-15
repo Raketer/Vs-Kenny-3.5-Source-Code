@@ -1,0 +1,63 @@
+{
+	"position": [
+		140,
+		90
+	],
+	"dialogue_pos": "left",
+	"scale": 1.35,
+	"image": "Kenny_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"anim": "Talk Scared",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"loop_name": "Kenny Scared Talk",
+			"idle_name": "Kenny Scared Talk0005"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"anim": "Talk",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"loop_name": "Kenny Talk",
+			"idle_name": "Kenny Talk0005"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"anim": "Talk Angry",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"loop_name": "Kenny Angry Talk",
+			"idle_name": "Kenny Angry Talk 0005"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"anim": "Talk Mad",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"loop_name": "Kenny Mad Talk",
+			"idle_name": "Kenny Mad Talk 0005"
+		}
+	]
+}

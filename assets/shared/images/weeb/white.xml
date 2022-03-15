@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="white.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blanco0000" x="0" y="0" width="2096" height="1236"/>
+	<SubTexture name="blanco0001" x="2096" y="0" width="2096" height="1236"/>
+	<SubTexture name="blanco0002" x="4192" y="0" width="2096" height="1236"/>
+	<SubTexture name="blanco0003" x="0" y="1236" width="2096" height="1236"/>
+	<SubTexture name="blanco0004" x="2096" y="1236" width="2096" height="1236"/>
+	<SubTexture name="blanco0005" x="4192" y="1236" width="2096" height="1236"/>
+	<SubTexture name="blanco0006" x="4192" y="1236" width="2096" height="1236"/>
+	<SubTexture name="blanco0007" x="0" y="2472" width="2096" height="1236"/>
+	<SubTexture name="blanco0008" x="2096" y="2472" width="2096" height="1236"/>
+	<SubTexture name="blanco0009" x="4192" y="2472" width="2096" height="1236"/>
+	<SubTexture name="blanco0010" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0010" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0010" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0011" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0012" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0013" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0014" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0015" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0016" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0017" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0018" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0019" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0020" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0021" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0022" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0023" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0024" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0025" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0026" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0027" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0028" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0029" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blanco0030" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+	<SubTexture name="blancooo0031" x="6288" y="2472" width="0" height="0" frameX="0" frameY="0" frameWidth="2096" frameHeight="1236"/>
+</TextureAtlas>

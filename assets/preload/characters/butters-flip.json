@@ -1,0 +1,290 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Butters Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Butters Idle"
+		},
+		{
+			"offsets": [
+				-31,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Butters Down Miss"
+		},
+		{
+			"offsets": [
+				9,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Butters Up Miss"
+		},
+		{
+			"offsets": [
+				-33,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Butters Down"
+		},
+		{
+			"offsets": [
+				9,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Butters Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				46
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Butters Die",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				56,
+				57
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-41,
+				31
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Butters Die Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				98
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Butters Die Confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				98
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Butters Right Miss"
+		},
+		{
+			"offsets": [
+				-15,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Butters Left Miss"
+		},
+		{
+			"offsets": [
+				0,
+				62
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Butters Right"
+		},
+		{
+			"offsets": [
+				-16,
+				74
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Butters Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Butters_Assets",
+	"position": [
+		-500,
+		370
+	],
+	"healthicon": "butters-normal",
+	"flip_x": false,
+	"healthbar_colors": [
+		26,
+		221,
+		181
+	],
+	"camera_position": [
+		-450,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

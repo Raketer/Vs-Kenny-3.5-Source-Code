@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "Talk",
+			"text": "Mrph?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kenny"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Talk",
+			"text": "Urph mrph rapphm?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kenny"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep Skeedo Ta",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Talk",
+			"text": "Fphn mhn!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kenny"
+		}
+	]
+}

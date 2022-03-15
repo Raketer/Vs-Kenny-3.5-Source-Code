@@ -1,0 +1,182 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Butters Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Butters Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				59
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Butters Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Butters Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Butters Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				16,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Butters Miss Left"
+		},
+		{
+			"offsets": [
+				-26,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Butters Miss Down"
+		},
+		{
+			"offsets": [
+				13,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Butters Miss Up"
+		},
+		{
+			"offsets": [
+				-3,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Butters Miss Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Butters_Perspective_Assets",
+	"position": [
+		-800,
+		400
+	],
+	"healthicon": "butters-normal",
+	"flip_x": true,
+	"healthbar_colors": [
+		26,
+		221,
+		181
+	],
+	"camera_position": [
+		-500,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

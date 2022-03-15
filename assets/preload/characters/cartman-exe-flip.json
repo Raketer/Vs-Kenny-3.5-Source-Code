@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-32,
+				245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "XCartman Idle"
+		},
+		{
+			"offsets": [
+				-37,
+				257
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "XCartman Left"
+		},
+		{
+			"offsets": [
+				-6,
+				206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "XCartman Down"
+		},
+		{
+			"offsets": [
+				-31,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "XCartman Up"
+		},
+		{
+			"offsets": [
+				152,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "XCartman Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cartman-exe",
+	"position": [
+		600,
+		400
+	],
+	"healthicon": "eric-exe",
+	"flip_x": true,
+	"healthbar_colors": [
+		232,
+		34,
+		34
+	],
+	"camera_position": [
+		-450,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

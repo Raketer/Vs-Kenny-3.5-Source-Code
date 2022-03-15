@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-42,
+				-42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Kenny Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Kenny Left"
+		},
+		{
+			"offsets": [
+				-36,
+				-64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Kenny Down"
+		},
+		{
+			"offsets": [
+				6,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Kenny Up"
+		},
+		{
+			"offsets": [
+				-66,
+				-41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Kenny Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kenny_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kenny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		132,
+		26
+	],
+	"camera_position": [
+		130,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

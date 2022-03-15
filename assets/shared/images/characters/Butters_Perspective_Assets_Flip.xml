@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Butters_Perspective_Assets_Flip.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Butters Flip Down0000" x="0" y="0" width="349" height="491" frameX="0" frameY="-4" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0001" x="0" y="0" width="349" height="491" frameX="0" frameY="-4" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0002" x="354" y="0" width="349" height="493" frameX="-3" frameY="-2" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0003" x="354" y="0" width="349" height="493" frameX="-3" frameY="-2" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0004" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0005" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0006" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0007" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0008" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0009" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0010" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0011" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0012" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Down0013" x="708" y="0" width="351" height="495" frameX="-4" frameY="0" frameWidth="355" frameHeight="495"/>
+	<SubTexture name="Butters Flip Idle0000" x="1064" y="0" width="352" height="511" frameX="-2" frameY="-9" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0001" x="1064" y="0" width="352" height="511" frameX="-2" frameY="-9" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0002" x="1421" y="0" width="351" height="515" frameX="0" frameY="-5" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0003" x="1421" y="0" width="351" height="515" frameX="0" frameY="-5" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0004" x="0" y="520" width="356" height="519" frameX="-9" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0005" x="0" y="520" width="356" height="519" frameX="-9" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0006" x="361" y="520" width="357" height="516" frameX="-12" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0007" x="361" y="520" width="357" height="516" frameX="-12" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0008" x="723" y="520" width="358" height="515" frameX="-15" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0009" x="723" y="520" width="358" height="515" frameX="-15" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0010" x="723" y="520" width="358" height="515" frameX="-15" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0011" x="723" y="520" width="358" height="515" frameX="-15" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0012" x="723" y="520" width="358" height="515" frameX="-15" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Idle0013" x="723" y="520" width="358" height="515" frameX="-15" frameY="0" frameWidth="373" frameHeight="520"/>
+	<SubTexture name="Butters Flip Left0000" x="1086" y="520" width="365" height="531" frameX="-3" frameY="-1" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0001" x="1086" y="520" width="365" height="531" frameX="-3" frameY="-1" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0002" x="1456" y="520" width="366" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0003" x="1456" y="520" width="366" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0004" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0005" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0006" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0007" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0008" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0009" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0010" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0011" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0012" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Left0013" x="0" y="1057" width="366" height="532" frameX="-1" frameY="0" frameWidth="368" frameHeight="532"/>
+	<SubTexture name="Butters Flip Right0000" x="371" y="1057" width="363" height="529" frameX="-1" frameY="-1" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0001" x="739" y="1057" width="363" height="529" frameX="0" frameY="-1" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0002" x="739" y="1057" width="363" height="529" frameX="0" frameY="-1" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0003" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0004" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0005" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0006" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0007" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0008" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0009" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0010" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0011" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0012" x="1107" y="1057" width="362" height="529" frameX="0" frameY="0" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Right0013" x="371" y="1057" width="363" height="529" frameX="-1" frameY="-1" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Flip Up0000" x="1474" y="1057" width="423" height="522" frameX="-3" frameY="0" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0001" x="1474" y="1057" width="423" height="522" frameX="-3" frameY="0" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0002" x="0" y="1594" width="427" height="520" frameX="-2" frameY="-2" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0003" x="0" y="1594" width="427" height="520" frameX="-2" frameY="-2" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0004" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0005" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0006" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0007" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0008" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0009" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0010" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0011" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0012" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Flip Up0013" x="432" y="1594" width="431" height="519" frameX="0" frameY="-3" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Miss Flip Down0000" x="868" y="1594" width="349" height="493" frameX="0" frameY="-5" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0001" x="1222" y="1594" width="348" height="498" frameX="-3" frameY="0" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0002" x="1222" y="1594" width="348" height="498" frameX="-3" frameY="0" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0003" x="1575" y="1594" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0004" x="1575" y="1594" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0005" x="0" y="2119" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0006" x="0" y="2119" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0007" x="1575" y="1594" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0008" x="1575" y="1594" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0009" x="0" y="2119" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0010" x="0" y="2119" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0011" x="1575" y="1594" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0012" x="1575" y="1594" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Down0013" x="0" y="2119" width="351" height="495" frameX="-1" frameY="-3" frameWidth="352" frameHeight="498"/>
+	<SubTexture name="Butters Miss Flip Left0000" x="356" y="2119" width="366" height="532" frameX="0" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0001" x="727" y="2119" width="367" height="532" frameX="-6" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0002" x="727" y="2119" width="367" height="532" frameX="-6" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0003" x="1099" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0004" x="1099" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0005" x="1470" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0006" x="1470" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0007" x="1099" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0008" x="1099" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0009" x="1470" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0010" x="1470" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0011" x="1099" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0012" x="1099" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Left0013" x="1470" y="2119" width="366" height="532" frameX="-1" frameY="0" frameWidth="373" frameHeight="532"/>
+	<SubTexture name="Butters Miss Flip Right0000" x="739" y="1057" width="363" height="529" frameX="-1" frameY="-7" frameWidth="364" frameHeight="530"/>
+	<SubTexture name="Butters Miss Flip Right0001" x="0" y="2656" width="360" height="536" frameX="0" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0002" x="0" y="2656" width="360" height="536" frameX="0" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0003" x="365" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0004" x="365" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0005" x="732" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0006" x="732" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0007" x="365" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0008" x="365" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0009" x="732" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0010" x="732" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0011" x="365" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0012" x="365" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Right0013" x="732" y="2656" width="362" height="536" frameX="-1" frameY="0" frameWidth="364" frameHeight="536"/>
+	<SubTexture name="Butters Miss Flip Up0000" x="0" y="1594" width="427" height="520" frameX="-4" frameY="-7" frameWidth="431" frameHeight="522"/>
+	<SubTexture name="Butters Miss Flip Up0001" x="1099" y="2656" width="434" height="524" frameX="0" frameY="-3" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0002" x="1099" y="2656" width="434" height="524" frameX="0" frameY="-3" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0003" x="1538" y="2656" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0004" x="1538" y="2656" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0005" x="0" y="3197" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0006" x="0" y="3197" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0007" x="1538" y="2656" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0008" x="1538" y="2656" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0009" x="0" y="3197" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0010" x="0" y="3197" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0011" x="1538" y="2656" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0012" x="1538" y="2656" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+	<SubTexture name="Butters Miss Flip Up0013" x="0" y="3197" width="431" height="527" frameX="-2" frameY="0" frameWidth="434" frameHeight="527"/>
+</TextureAtlas>

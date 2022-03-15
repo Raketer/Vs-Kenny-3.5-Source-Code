@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "kenny",
+			"boxState": "normal",
+			"expression": "Talk Angry",
+			"text": "Umgh, Dmhtm yuhm ght Smthmd mphm hrphm"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop ta!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "kenny",
+			"boxState": "normal",
+			"expression": "Talk Angry",
+			"text": "Hrhmbphm Mthrmsph tlhm, Lethss mrphm sphm ofth pehsm!"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bip bop Pa!"
+		}
+	]
+}

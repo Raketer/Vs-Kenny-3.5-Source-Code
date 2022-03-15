@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "kenny",
+			"boxState": "normal",
+			"expression": "Talk Angry",
+			"text": "Nothm Evenmph amhp Mthrsmph, Uh?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "kenny",
+			"boxState": "normal",
+			"expression": "Talk Angry",
+			"text": "Brphm, urph mprhtm cophm"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap skeedo bop pa"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "kenny",
+			"boxState": "angry",
+			"expression": "Talk Mad",
+			"text": "Mprhm!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "kenny",
+			"boxState": "normal",
+			"expression": "Talk Mad",
+			"text": "Urph Smthm btphm hrphm"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeep da beepo ska"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "kenny",
+			"boxState": "angry",
+			"expression": "Talk Mad",
+			"text": "Prhm, Iphm mphm sphm mfrpm!"
+		}
+	]
+}

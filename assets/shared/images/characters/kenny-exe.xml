@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kenny-exe.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kenny Down0000" x="405" y="709" width="293" height="303" frameX="0" frameY="-6" frameWidth="293" frameHeight="309"/>
+	<SubTexture name="Kenny Down0001" x="405" y="709" width="293" height="303" frameX="0" frameY="-6" frameWidth="293" frameHeight="309"/>
+	<SubTexture name="Kenny Down0002" x="703" y="709" width="290" height="306" frameX="-2" frameY="-3" frameWidth="293" frameHeight="309"/>
+	<SubTexture name="Kenny Down0003" x="703" y="709" width="290" height="306" frameX="-2" frameY="-3" frameWidth="293" frameHeight="309"/>
+	<SubTexture name="Kenny Down0004" x="998" y="709" width="286" height="309" frameX="-4" frameY="0" frameWidth="293" frameHeight="309"/>
+	<SubTexture name="Kenny Down0005" x="998" y="709" width="286" height="309" frameX="-4" frameY="0" frameWidth="293" frameHeight="309"/>
+	<SubTexture name="Kenny Down0006" x="1289" y="709" width="287" height="308" frameX="-4" frameY="-1" frameWidth="293" frameHeight="309"/>
+	<SubTexture name="Kenny Down0007" x="1289" y="709" width="287" height="308" frameX="-4" frameY="-1" frameWidth="293" frameHeight="309"/>
+	<SubTexture name="Kenny Idle0000" x="1581" y="709" width="312" height="321" frameX="0" frameY="-8" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0001" x="1581" y="709" width="312" height="321" frameX="0" frameY="-8" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0002" x="0" y="1104" width="310" height="321" frameX="-1" frameY="-7" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0003" x="0" y="1104" width="310" height="321" frameX="-1" frameY="-7" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0004" x="315" y="1104" width="307" height="325" frameX="-1" frameY="-3" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0005" x="315" y="1104" width="307" height="325" frameX="-1" frameY="-3" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0006" x="627" y="1104" width="301" height="328" frameX="-2" frameY="-1" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0007" x="627" y="1104" width="301" height="328" frameX="-2" frameY="-1" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0008" x="933" y="1104" width="300" height="328" frameX="-2" frameY="-1" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0009" x="933" y="1104" width="300" height="328" frameX="-2" frameY="-1" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0010" x="1238" y="1104" width="298" height="329" frameX="-2" frameY="0" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0011" x="1238" y="1104" width="298" height="329" frameX="-2" frameY="0" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0012" x="1238" y="1104" width="298" height="329" frameX="-2" frameY="0" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Idle0013" x="1238" y="1104" width="298" height="329" frameX="-2" frameY="0" frameWidth="312" frameHeight="329"/>
+	<SubTexture name="Kenny Laugh 10000" x="0" y="0" width="471" height="296" frameX="0" frameY="-12" frameWidth="471" frameHeight="309"/>
+	<SubTexture name="Kenny Laugh 10001" x="0" y="0" width="471" height="296" frameX="0" frameY="-12" frameWidth="471" frameHeight="309"/>
+	<SubTexture name="Kenny Laugh 10002" x="476" y="0" width="456" height="306" frameX="-3" frameY="-3" frameWidth="471" frameHeight="309"/>
+	<SubTexture name="Kenny Laugh 10003" x="476" y="0" width="456" height="306" frameX="-3" frameY="-3" frameWidth="471" frameHeight="309"/>
+	<SubTexture name="Kenny Laugh 10004" x="937" y="0" width="458" height="306" frameX="-3" frameY="-3" frameWidth="471" frameHeight="309"/>
+	<SubTexture name="Kenny Laugh 10005" x="1400" y="0" width="456" height="309" frameX="-5" frameY="0" frameWidth="471" frameHeight="309"/>
+	<SubTexture name="Kenny Laugh 10006" x="0" y="314" width="454" height="309" frameX="-5" frameY="0" frameWidth="471" frameHeight="309"/>
+	<SubTexture name="Kenny Laugh 20000" x="459" y="314" width="402" height="384" frameX="0" frameY="-6" frameWidth="402" frameHeight="390"/>
+	<SubTexture name="Kenny Laugh 20001" x="459" y="314" width="402" height="384" frameX="0" frameY="-6" frameWidth="402" frameHeight="390"/>
+	<SubTexture name="Kenny Laugh 20002" x="866" y="314" width="398" height="390" frameX="-2" frameY="0" frameWidth="402" frameHeight="390"/>
+	<SubTexture name="Kenny Laugh 20003" x="866" y="314" width="398" height="390" frameX="-2" frameY="0" frameWidth="402" frameHeight="390"/>
+	<SubTexture name="Kenny Laugh 20004" x="1269" y="314" width="396" height="390" frameX="-1" frameY="0" frameWidth="402" frameHeight="390"/>
+	<SubTexture name="Kenny Laugh 20005" x="1269" y="314" width="396" height="390" frameX="-1" frameY="0" frameWidth="402" frameHeight="390"/>
+	<SubTexture name="Kenny Laugh 20006" x="0" y="709" width="400" height="390" frameX="0" frameY="0" frameWidth="402" frameHeight="390"/>
+	<SubTexture name="Kenny Laugh 20007" x="0" y="709" width="400" height="390" frameX="0" frameY="0" frameWidth="402" frameHeight="390"/>
+	<SubTexture name="Kenny Left0000" x="1541" y="1104" width="273" height="352" frameX="0" frameY="-2" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0001" x="1541" y="1104" width="273" height="352" frameX="0" frameY="-2" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0002" x="0" y="1461" width="272" height="353" frameX="-2" frameY="-1" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0003" x="0" y="1461" width="272" height="353" frameX="-2" frameY="-1" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0004" x="277" y="1461" width="272" height="354" frameX="-12" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0005" x="277" y="1461" width="272" height="354" frameX="-12" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0006" x="554" y="1461" width="273" height="354" frameX="-10" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0007" x="554" y="1461" width="273" height="354" frameX="-10" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0008" x="554" y="1461" width="273" height="354" frameX="-10" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0009" x="554" y="1461" width="273" height="354" frameX="-10" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0010" x="554" y="1461" width="273" height="354" frameX="-10" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0011" x="554" y="1461" width="273" height="354" frameX="-10" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0012" x="554" y="1461" width="273" height="354" frameX="-10" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Left0013" x="554" y="1461" width="273" height="354" frameX="-10" frameY="0" frameWidth="284" frameHeight="354"/>
+	<SubTexture name="Kenny Right0000" x="832" y="1461" width="272" height="355" frameX="-3" frameY="0" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0001" x="832" y="1461" width="272" height="355" frameX="-3" frameY="0" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0002" x="1109" y="1461" width="271" height="354" frameX="-2" frameY="-1" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0003" x="1109" y="1461" width="271" height="354" frameX="-2" frameY="-1" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0004" x="1385" y="1461" width="272" height="350" frameX="-2" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0005" x="1385" y="1461" width="272" height="350" frameX="-2" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0006" x="1662" y="1461" width="273" height="350" frameX="0" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0007" x="1662" y="1461" width="273" height="350" frameX="0" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0008" x="1662" y="1461" width="273" height="350" frameX="0" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0009" x="1662" y="1461" width="273" height="350" frameX="0" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0010" x="1662" y="1461" width="273" height="350" frameX="0" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0011" x="1662" y="1461" width="273" height="350" frameX="0" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0012" x="1662" y="1461" width="273" height="350" frameX="0" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Right0013" x="1662" y="1461" width="273" height="350" frameX="0" frameY="-5" frameWidth="275" frameHeight="355"/>
+	<SubTexture name="Kenny Up0000" x="0" y="1821" width="270" height="376" frameX="0" frameY="0" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0001" x="0" y="1821" width="270" height="376" frameX="0" frameY="0" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0002" x="275" y="1821" width="270" height="373" frameX="-2" frameY="-3" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0003" x="275" y="1821" width="270" height="373" frameX="-2" frameY="-3" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0004" x="550" y="1821" width="271" height="370" frameX="-4" frameY="-6" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0005" x="550" y="1821" width="271" height="370" frameX="-4" frameY="-6" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0006" x="826" y="1821" width="271" height="371" frameX="-3" frameY="-5" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0007" x="826" y="1821" width="271" height="371" frameX="-3" frameY="-5" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0008" x="826" y="1821" width="271" height="371" frameX="-3" frameY="-5" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0009" x="826" y="1821" width="271" height="371" frameX="-3" frameY="-5" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0010" x="826" y="1821" width="271" height="371" frameX="-3" frameY="-5" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0011" x="826" y="1821" width="271" height="371" frameX="-3" frameY="-5" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0012" x="826" y="1821" width="271" height="371" frameX="-3" frameY="-5" frameWidth="275" frameHeight="376"/>
+	<SubTexture name="Kenny Up0013" x="826" y="1821" width="271" height="371" frameX="-3" frameY="-5" frameWidth="275" frameHeight="376"/>
+</TextureAtlas>

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Misterion Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Misterion Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				94
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Misterion Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				118
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Misterion Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				109
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Misterion Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				110
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "Misterion Talk",
+			"indices": []
+		},
+		{
+			"offsets": [
+				909,
+				693
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "death",
+			"loop": false,
+			"name": "Mysterion Death 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mysterion_Assets_Pizza",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "mysterion",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		48,
+		150
+	],
+	"camera_position": [
+		70,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

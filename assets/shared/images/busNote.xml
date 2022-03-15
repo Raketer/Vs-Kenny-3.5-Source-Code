@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="busNote.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="0" y="0" width="171" height="172"/>
+	<SubTexture name="B0000" x="0" y="0" width="171" height="172"/>
+	<SubTexture name="C0000" x="0" y="0" width="171" height="172"/>
+	<SubTexture name="D0000" x="0" y="0" width="171" height="172"/>
+	<SubTexture name="E0000" x="0" y="0" width="171" height="172"/>
+	<SubTexture name="F0000" x="0" y="0" width="171" height="172"/>
+	<SubTexture name="G0000" x="0" y="0" width="171" height="172"/>
+	<SubTexture name="H0000" x="0" y="0" width="171" height="172"/>
+	<SubTexture name="I0000" x="0" y="0" width="171" height="172"/>
+</TextureAtlas>
